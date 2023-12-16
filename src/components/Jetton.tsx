@@ -31,7 +31,7 @@ export function Jetton() {
         </FlexBoxRow>
         <Button
           disabled={!connected} onClick={mint}>
-          Mint jettons (铸币)
+          Mint jettons (“铸造令牌”或“铸造代币”)
         </Button>
       </FlexBoxCol>
     </Card>
